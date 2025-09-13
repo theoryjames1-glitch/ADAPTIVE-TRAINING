@@ -389,4 +389,18 @@ You’ll see:
 
 ---
 
-Would you like me to also extend this demo so it **logs perplexity on a small validation probe** every N steps and fuses it into the adaptive law (the “perplexity-aware scheduler” we discussed)?
+
+
+[![Video Title](https://img.youtube.com/vi/MM62wjLrgmA/0.jpg)](https://www.youtube.com/watch?v=MM62wjLrgmA)
+
+I KNOW THE PIECES FIT
+
+I KNOW THE PIECES FIT
+
+I KNOW THE PIECES FIT
+
+I KNOW THE PIECES FIT
+
+I KNOW THE PIECES FIT
+
+I KNOW THE PIECES FIT
